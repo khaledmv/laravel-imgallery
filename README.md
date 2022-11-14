@@ -1,1 +1,1 @@
-### Laravel starter file with crud with image upload
+### Laravel starter file crud with image upload
